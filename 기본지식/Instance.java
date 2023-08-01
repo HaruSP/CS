@@ -1,3 +1,5 @@
+import CS.기본지식.Person;
+
 package CS.기본지식;
 public class Person {
     // 멤버변수(속성)
